@@ -5,8 +5,11 @@ A design productivity plugin primarily designed for [VaeltrixAI](https://vaeltri
 ## Installation
 
 ```bash
-vaeltrix plugin marketplace add vaeltrixlabs/knowledge-work-plugins
-vaeltrix plugin install design@knowledge-work-plugins
+# contoh — sesuaikan dengan cara install plugin di lingkungan Vaeltrix Kamu
+vaeltrix plugin install ./
+# atau
+vaeltrix plugin marketplace add vaeltrix-labs/vaeltrix-skills
+vaeltrix plugin install design@vaeltrix-skills
 ```
 
 ## Commands
